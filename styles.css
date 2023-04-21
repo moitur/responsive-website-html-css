@@ -107,7 +107,7 @@ nav ul li a:hover, nav ul li a.active{
 
 header {
     background-image: url(./images/banner.jpg);
-    height: 90vh;
+    height: 100vh;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
